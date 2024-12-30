@@ -1,3 +1,8 @@
+#Projeto inicial realizado pela escola Digital Innovation One. Porém novos upgrades e atualizações implementando novos conceitos e tecnologias aprendidas durante minha trajetória.
+
+
+
+
 # Curriculum Vitae Online
 
 Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
